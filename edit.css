@@ -1,0 +1,15 @@
+form{
+    text-align: center;
+    
+}
+form>input{
+    /* text-align: center;
+     */
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 3px;
+}
+h1{
+    text-align: center;
+}

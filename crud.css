@@ -1,0 +1,24 @@
+#form{
+    text-align: center;
+    
+}
+#form>input{
+    /* text-align: center;
+     */
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+#container>table{
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 5px;
+}
